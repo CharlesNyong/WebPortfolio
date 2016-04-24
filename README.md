@@ -1,5 +1,6 @@
 # WebPortfolio
-This repository holds all my code for my web portfolio
+My Comment page. this page displays all the comments. 
+
 <!DOCTYPE html>
 <html>
 <head>
