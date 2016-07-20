@@ -63,7 +63,10 @@ padding-top: 14px;
 }
 
 #LoginBody{
-  background: white;
+  font-family:Arial;
+  background-image: url("LoginBg.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #CommentBody{
@@ -775,4 +778,3 @@ color: white;
       }
 
   }
-  
