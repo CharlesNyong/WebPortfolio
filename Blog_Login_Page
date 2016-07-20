@@ -14,7 +14,7 @@
 
 <div class="col-md-container">
 	<div class="Blog_Login_Align">	   
-		<form class="form-horizontal" onsubmit="validateLogin()" name='frm' id='form'>
+		<form class="form-horizontal" name='frm' id='form' onsubmit='validateLogin()' method="POST">
 			<div class="form-group"> 
 				<label for="UserName" class="col-sm-2 control-label">UserName:</label> 
 				<div class="col-xs-3">
