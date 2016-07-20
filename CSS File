@@ -8,6 +8,10 @@ margin-top: 3px;
   margin-left:30%;
 }
 
+.paraSpace{
+  margin: 0em;
+}
+
 #button{
   margin-left: 330px; 
   margin-top: 12px;
@@ -60,6 +64,14 @@ padding-top: 14px;
 
 #LoginBody{
   background: white;
+}
+
+#CommentBody{
+  background-image: url("tiles.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*font-family:Arial; 
+  background:#C63D0F;*/
 }
 
 #contact{
@@ -764,5 +776,3 @@ color: white;
 
   }
   
-  
-	
