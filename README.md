@@ -2,8 +2,6 @@ This is a basic web portfolio that is primarly built with php/mysql. This is sti
 
 - A very basic blog page.
 
-- A project page. This page talks of all the projects i've done in the past
-
 - My resume
 
 - Link to my linkedIn profile
