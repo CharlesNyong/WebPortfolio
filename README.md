@@ -4,5 +4,7 @@ This is a basic web portfolio that is primarly built with php/mysql. This is sti
 
 - My resume
 
+- Link to my Github profile
+
 - Link to my linkedIn profile
 
